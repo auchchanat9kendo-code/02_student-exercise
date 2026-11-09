@@ -13,6 +13,13 @@ python 06_animated_polygon_art_starter.py
 
 The first program creates static overlapping polygon artwork; the second animates Polygon objects.
 
+## Example artwork
+
+The project includes a photo of the static artwork and a demo video in the `assets` folder:
+
+- [Static artwork example](assets/polygon-art-example.jpg)
+- [Animated artwork demo](assets/polygon-art-demo.mp4)
+
 ## Git milestones
 
 - **Commit 1:** completed `polygon_shape.py` and working static artwork (`05_polygon_art_starter.py`).
